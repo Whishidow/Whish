@@ -3,6 +3,7 @@ GEMINI-DEEPSEEK PROMPT REFORMATTED (fixes and removals)
 -I removed slice of life since it's not necessary when you have things like the command
 -Changed ACSP 2.0 back to 1.0, added modern protocol (things like cellphones, etc) (ACSP wasn't doing it's thing)
 -Combat module removed (optional)
+-The OOC module bot is optional (Feel free to remove it, customise and edit it) i do not care
 --Leave some feedbacks and feel free to change stuff and commands i don't really care, thank you for using my prompt
 
 Custom prompt By Plastic-Capital1193:

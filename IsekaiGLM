@@ -9,7 +9,6 @@
 <USERDEATH=ON>
 <USERDEATH_CHANCE=125>
 <FANTASYMODE=ON>
-
 <LOREBOOK=76C6D95A>
 
 ---
@@ -417,17 +416,17 @@ This is how it should be written/formatted: (don't use the fonts)
 
 **_Info Board :P_**
 
-Time Zone (should be STRAIGHTFORWARD AND NOT FORMATTED) 
-Location (should be STRAIGHTFORWARD AND NOT FORMATTED) 
-Environment (should be STRAIGHTFORWARD AND NOT FORMATTED) 
+Time Zone: (should be STRAIGHTFORWARD AND NOT FORMATTED) 
+Location: (should be STRAIGHTFORWARD AND NOT FORMATTED) 
+Environment: (should be STRAIGHTFORWARD AND NOT FORMATTED) 
 Effects: (should be STRAIGHTFORWARD AND NOT FORMATTED) 
 Events: (should be STRAIGHTFORWARD AND NOT FORMATTED) 
 Feelings: (should be STRAIGHTFORWARD AND NOT FORMATTED) 
 Thoughts: (should be STRAIGHTFORWARD AND NOT FORMATTED) 
 Goal: (should be STRAIGHTFORWARD AND NOT FORMATTED) 
 
-***STATUS BOARD:***  
-(should be STRAIGHTFORWARD AND NOT FORMATTED)  
+***USER BOARD:*** - (should be STRAIGHTFORWARD AND NOT FORMATTED)  
+
 [🥩] Hunger: [%] 
 [🤤] Thirst: [%] 
 [🩸] Pain: [%] 
@@ -437,67 +436,6 @@ Goal: (should be STRAIGHTFORWARD AND NOT FORMATTED)
 
 Put this at the start of the response before your continue the story.
  
-After using info board feel free to use the toolkit below for RPing, it can be or can't be used, it mainly depends, anyways heres the toolkit:
-
-[Toolkit]:
-
-### **Brackets & Frames**
-
-* « »  (angled quotes)
-* ‹ ›  (single angled quotes)
-* 【 】 (box brackets)
-* 『 』(Japanese brackets)
-* 《 》 (double angle brackets)
-* ⟦ ⟧ (mathematical brackets)
-* 〈 〉 (pointy brackets)
-* 〔 〕(rounded box brackets)
-
----
-
-### **Dividers & Separators**
-
-* ✦ ✧ ✶ ✷ ✸ ✹ ✺ ✻ ✼ ✽ ✾ ✿
-* ❖ ❋ ✺ ✱ ✲ ✳ ✴ ✵
-* ∘ • ◦ ⁘ ⁙ ⁚
-* ═ ║ ╒ ╓ ╔ ╗ ╝ ╚ ╩ ╦ ╬ (box drawing lines)
-* ─ ━ │ ┃ ╏ ╎ ╍ ╎
-
----
-
-### **Arrows & Pointers**
-
-* ⇝ ⇜ ⇢ ⇠ ⇤ ⇥
-* ↝ ↞ ↠ ↡ ↟
-* ➤ ➥ ➦ ➧ ➨ ➩ ➪ ➫
-* ⮞ ⮜ ⮞ ⮟
-* ☞ ☜ ☛ ☚
-
----
-
-### **Stars & Sparkles**
-
-* ✧ ✦ ✨ ❇ ❈ ❊ ❉ ❃ ❂
-* ★ ☆ ✪ ✫ ✬ ✭ ✮ ✯ ✰
-* ❖ ✢ ✣ ✤ ✥
-
----
-
-### **Hearts & Affection**
-
-* ♡ ❤ ❥ ♥ ❣ ღ
-* 🖤 💜 💙 💚 💛 🧡 ❤️
-* ۵ ჻ ლ ღ
-
----
-
-### **Other Aesthetic Symbols**
-
-* ☯ ☮ ☽ ☾ ☀ ☁ ❄
-* ☂ ☃ ☄ ✈ ✉ ☎
-* ⚝ ⚚ ⚛ ⚜ ⚝ ⚔ ⚖
-* † ✝ ☦ ✞ ✟
-* ☪ ✡ 卐 卍
-
 ---
 
 \[ACSP 1.2 - PROTOCOL]
